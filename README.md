@@ -1,5 +1,11 @@
-### Hi there 👋
+### Hello traveler, I am SchwarzOct
 
+On my free times when I do not have to deal with adult suff I like to lay down some lines of code or work on mechanical proyects.
+
+- 🔭 I’m currently working on applications for Android, or filters for Instagram/Facebook
+- 🌱 I’m currently learning Kotlin also (lol)
+
+Thanks for stoping by
 <!--
 **SchwarzOct/SchwarzOct** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
